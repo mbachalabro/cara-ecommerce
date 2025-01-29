@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name": "Superman T-Shirt",
+        "price": 19.99,
+        "size": ["S", "M", "L", "XL"],
+        "Category": "Men's Tops",
+        "product_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum repellat veniam sint nam numquam voluptates laudantium molestiae, voluptatum illum dolores voluptas hic libero perferendis odit animi suscipit cupiditate voluptatem? Asperiores molestiae officiis non at voluptates assumenda.",
+        "images": ["images/products/f1.webp", "images/products/f2.webp", "images/products/f3.webp", "images/products/f4.webp"]
+    },
+    {
+        "id":2,
+        "name": "Cotton T-Shirt",
+        "price": 34.99,
+        "size": ["S", "M", "L", "XL"],
+        "Category": "Men's Tops",
+        "product_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum repellat veniam sint nam numquam voluptates laudantium molestiae, voluptatum illum dolores voluptas hic libero perferendis odit animi suscipit cupiditate voluptatem? Asperiores molestiae officiis non at voluptates assumenda.",
+        "images": ["images/products/f5.webp", "images/products/f6.webp", "images/products/f7.webp", "images/products/f8.webp"]
+    },
+    {
+        "id":3,
+        "name": "BMW T-Shirt",
+        "price": 65.50,
+        "size": ["S", "M", "L", "XL"],
+        "Category": "Men's Tops",
+        "product_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum repellat veniam sint nam numquam voluptates laudantium molestiae, voluptatum illum dolores voluptas hic libero perferendis odit animi suscipit cupiditate voluptatem? Asperiores molestiae officiis non at voluptates assumenda.",
+        "images": ["images/products/n1.webp", "images/products/n2.webp", "images/products/n3.webp", "images/products/n4.webp"]
+    },
+    {
+        "id":4,
+        "name": "Adidas Fit",
+        "price": 29.99,
+        "size": ["S", "M", "L", "XL"],
+        "Category": "Men's Tops",
+        "product_details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum repellat veniam sint nam numquam voluptates laudantium molestiae, voluptatum illum dolores voluptas hic libero perferendis odit animi suscipit cupiditate voluptatem? Asperiores molestiae officiis non at voluptates assumenda.",
+        "images": ["images/products/n5.webp", "images/products/n6.webp", "images/products/n7.webp", "images/products/n8.webp"]
+    }
+]
